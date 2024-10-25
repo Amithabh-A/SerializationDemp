@@ -1,0 +1,14 @@
+/Users/amithabh_a/Projects/Serialisation/bin/Debug/net8.0/Serialisation
+/Users/amithabh_a/Projects/Serialisation/bin/Debug/net8.0/Serialisation.deps.json
+/Users/amithabh_a/Projects/Serialisation/bin/Debug/net8.0/Serialisation.runtimeconfig.json
+/Users/amithabh_a/Projects/Serialisation/bin/Debug/net8.0/Serialisation.dll
+/Users/amithabh_a/Projects/Serialisation/bin/Debug/net8.0/Serialisation.pdb
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/Serialisation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/Serialisation.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/Serialisation.AssemblyInfo.cs
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/Serialisation.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/Serialisation.dll
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/refint/Serialisation.dll
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/Serialisation.pdb
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/Serialisation.genruntimeconfig.cache
+/Users/amithabh_a/Projects/Serialisation/obj/Debug/net8.0/ref/Serialisation.dll
